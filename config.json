@@ -1,30 +1,32 @@
 {
-  "profileUrl": "https://csgotraders.net/profile/xei8f8ri",
-  "cards": [
+  "profiles": [
     {
-      "assetId": "69696911146",
-      "name": "★ Moto gloves | Smoke Out",
-      "quality": "Field-Tested",
-      "type": "Extraordinary Gloves",
-      "img": "https://steamcommunity-a.akamaihd.net/economy/image/...",
-      "price": "$137.33",
-      "float": "0.3149",
-      "pattern": "n/a",
-      "holdBanEndTime": "2026-02-20T12:00:00"
-    }
-  ]
-}
-{
-      "profileUrl": "https://csgotraders.net/profile/ohbahpez",
+      "profileUrl": "csgotraders.net/profile/xei8f8ri",
       "cards": [
         {
-          "assetId": "69696922222",
-          "name": "M4A1-S | Chantico's Fire",
+          "assetId": "69696911146",
+          "name": "★ Moto Gloves | Smoke Out",
           "quality": "Field-Tested",
-          "type": "Rifle",
+          "type": "Extraordinary Gloves",
           "img": "https://steamcommunity-a.akamaihd.net/economy/image/...",
-          "price": "$210.50",
-          "float": "0.1523",
+          "price": "$137.33",
+          "float": "0.3149",
+          "pattern": "n/a",
+          "holdBanEndTime": "2026-02-20T12:00:00"
+        }
+      ]
+    },
+    {
+      "profileUrl": "csgotraders.net/profile/ohbahpez",
+      "cards": [
+        {
+          "assetId": "69696911150",
+          "name": "Galil AR | Chromatic Aberration",
+          "quality": "Field-Tested",
+          "type": "Classified Rifle",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/...",
+          "price": "$4.17",
+          "float": "0.2453",
           "pattern": "n/a",
           "holdBanEndTime": "2026-02-20T12:00:00"
         }
