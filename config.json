@@ -14,3 +14,21 @@
     }
   ]
 }
+{
+      "profileUrl": "https://csgotraders.net/profile/ohbahpez",
+      "cards": [
+        {
+          "assetId": "69696922222",
+          "name": "M4A1-S | Chantico's Fire",
+          "quality": "Field-Tested",
+          "type": "Rifle",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/...",
+          "price": "$210.50",
+          "float": "0.1523",
+          "pattern": "n/a",
+          "holdBanEndTime": "2026-02-20T12:00:00"
+        }
+      ]
+    }
+  ]
+}
