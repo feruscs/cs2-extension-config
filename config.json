@@ -95,7 +95,156 @@
   "float": "0.3379",
   "pattern": "n/a",
   "holdBanEndTime": "2026-02-20T12:00:00"
+},
+{
+      "profileUrl": "csgotraders.net/profile/w7vgipyi",
+      "cards": [
+        {
+    "assetId": "69696911137",
+    "name": "Austin 2025 Viewer Pass",
+    "quality": "",
+    "type": "Viewer Pass",
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7hlNIIs_rBVJXwPRUvf_h52GHFxhNlYH5O-aOwZzwL2dJ2obvd_mx9Lak6etZuOClzpS65Z32OqSpY_00Q3g-hU-ajiiIYaSbEZgNpkQHW2S/230fx130f",
+    "price": "$7.02",
+    "float": "",
+    "pattern": "",
+    "holdBanEndTime": "2026-02-20T12:00:00"
+  },
+  {
+    "assetId": "69696911237",
+    "name": "Austin 2025 Viewer Pass",
+    "quality": "",
+    "type": "Viewer Pass",
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7hlNIIs_rBVJXwPRUvf_h52GHFxhNlYH5O-aOwZzwL2dJ2obvd_mx9Lak6etZuOClzpS65Z32OqSpY_00Q3g-hU-ajiiIYaSbEZgNpkQHW2S/230fx130f",
+    "price": "$7.02",
+    "float": "",
+    "pattern": "",
+    "holdBanEndTime": "2026-02-20T12:00:00"
+  },
+    {
+    "assetId": "69696911337",
+    "name": "Austin 2025 Viewer Pass",
+    "quality": "",
+    "type": "Viewer Pass",
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7hlNIIs_rBVJXwPRUvf_h52GHFxhNlYH5O-aOwZzwL2dJ2obvd_mx9Lak6etZuOClzpS65Z32OqSpY_00Q3g-hU-ajiiIYaSbEZgNpkQHW2S/230fx130f",
+    "price": "$7.02",
+    "float": "",
+    "pattern": "",
+    "holdBanEndTime": "2026-02-20T12:00:00"
+  },
+    {
+    "assetId": "69696911437",
+    "name": "Austin 2025 Viewer Pass",
+    "quality": "",
+    "type": "Viewer Pass",
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7hlNIIs_rBVJXwPRUvf_h52GHFxhNlYH5O-aOwZzwL2dJ2obvd_mx9Lak6etZuOClzpS65Z32OqSpY_00Q3g-hU-ajiiIYaSbEZgNpkQHW2S/230fx130f",
+    "price": "$7.02",
+    "float": "",
+    "pattern": "",
+    "holdBanEndTime": "2026-02-20T12:00:00"
+  },
+    {
+    "assetId": "69696911537",
+    "name": "Austin 2025 Viewer Pass",
+    "quality": "",
+    "type": "Viewer Pass",
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7hlNIIs_rBVJXwPRUvf_h52GHFxhNlYH5O-aOwZzwL2dJ2obvd_mx9Lak6etZuOClzpS65Z32OqSpY_00Q3g-hU-ajiiIYaSbEZgNpkQHW2S/230fx130f",
+    "price": "$7.02",
+    "float": "",
+    "pattern": "",
+    "holdBanEndTime": "2026-02-20T12:00:00"
+  },
+    {
+    "assetId": "69696911637",
+    "name": "Austin 2025 Viewer Pass",
+    "quality": "",
+    "type": "Viewer Pass",
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7hlNIIs_rBVJXwPRUvf_h52GHFxhNlYH5O-aOwZzwL2dJ2obvd_mx9Lak6etZuOClzpS65Z32OqSpY_00Q3g-hU-ajiiIYaSbEZgNpkQHW2S/230fx130f",
+    "price": "$7.02",
+    "float": "",
+    "pattern": "",
+    "holdBanEndTime": "2026-02-20T12:00:00"
+  },
+  {
+  "assetId": "69696911139",
+  "name": "Kukri Knife | Safari Mesh",
+  "quality": "Field-Tested",
+  "type": "Covert Knife",
+  "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJmYWYn8jgMrXum25V4dB8xOuQrNis3AfjrkFrMTr1INeRd1Q3aF7X_wO4yLvngZO4ucydm3Ax7CQ8pSGKWNs0Kx8/230fx130f",
+  "price": "$65.70",
+  "float": "0.28",
+  "pattern": "n/a",
+  "holdBanEndTime": "2026-02-20T12:00:00"
+},
+{
+  "assetId": "69696911140",
+  "name": "★ Hydra Gloves | Mangrove",
+  "quality": "Field-Tested",
+  "type": "Extraordinary Gloves",
+  "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7Ndwte7T8In7t1ixqgc0NiucedPWKmlsIwmTuT7jlLq2wMui6JzAnXs1uyAjsHzZyxPkiBBFPe1uhvycGF6bDvZASKXQUHbW5JlwQTLqR00VJ-vLsQ/230fx130f",
+  "price": "$78.00",
+  "float": "0.31",
+  "pattern": "n/a",
+  "holdBanEndTime": "2026-02-20T12:00:00"
+},
+{
+  "assetId": "69696911141",
+  "name": "R8 Revolver | Blaze",
+  "quality": "Minimal Wear",
+  "type": "Pistol",
+  "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpopL-zJAt21uH3cDx96tC3mYWYqPv9NLPF2DoIuMEoieuW99T0iVDn-hdtY2ylcY6WegA4ZQnXrAW3yLu905W5v5jXiSw0Apt2w_0/230fx130f",
+  "price": "$6.50",
+  "float": "0.12",
+  "pattern": "n/a",
+  "holdBanEndTime": "2026-02-20T12:00:00"
+},
+{
+  "assetId": "69696911142",
+  "name": "'Two Times' McCoy | USAF TACP",
+  "quality": "n/a",
+  "type": "Agent",
+  "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaOBM27OXJYzRD4si72tbdwfTyZL_Qlz4A6pIo3-yT8d_xjQK3_Rc9Njz6coaQcFBoMwvY_VCggbC4vjbmR48/230fx130f",
+  "price": "$9.80",
+  "float": "n/a",
+  "pattern": "n/a",
+  "holdBanEndTime": "2026-02-20T12:00:00"
+},
+{
+  "assetId": "69696911143",
+  "name": "'The Doctor' Romanov | Sabre",
+  "quality": "n/a",
+  "type": "Agent",
+  "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztDu4WnKgtr0v33ZzxQ5d24gIjFz_OlZbqJxD4C68cp2u-Z9Ijw0AXmrUZoZm2iLI-cc1M7MAmC_FntwvCv28EpZvYmDw/230fx130f",
+  "price": "$9.50",
+  "float": "n/a",
+  "pattern": "n/a",
+  "holdBanEndTime": "2026-02-20T12:00:00"
+},
+{
+  "assetId": "69696911144",
+  "name": "AWP | Atheris",
+  "quality": "Field-Tested",
+  "type": "Sniper Rifle",
+  "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FAR17PLfYQJU5cyzhr-GkvP9Jrafw2lU6ccp0rqX8d2nigTm_hdoNWmiIYHBdAVsaAzR-QO-xLq6g5G5uIOJlyWELqSUrQ/230fx130f",
+  "price": "$4.30",
+  "float": "0.28",
+  "pattern": "n/a",
+  "holdBanEndTime": "2026-02-20T12:00:00"
+},
+{
+  "assetId": "69696911145",
+  "name": "AK-47 | Ice Coaled",
+  "quality": "Field-Tested",
+  "type": "Rifle",
+  "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV09-5k5SDnvnzIITck29Y_cg_i-rHoYrw3VLs_RZlZ2umLYSTdQc_Zl7ZrwPoxefp18Du7Z-bwHZh6z5iuyiJTfqMXg/230fx130f",
+  "price": "$18.90",
+  "float": "0.26",
+  "pattern": "n/a",
+  "holdBanEndTime": "2026-02-20T12:00:00"
 }
+      ]
+    }
+
         
       ]
     }
