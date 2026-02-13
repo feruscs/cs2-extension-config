@@ -19,17 +19,18 @@
     {
       "profileUrl": "csgotraders.net/profile/ohbahpez",
       "cards": [
-        {
-          "assetId": "69696911150",
-          "name": "Galil AR | Chromatic Aberration",
-          "quality": "Field-Tested",
-          "type": "Classified Rifle",
-          "img": "https://steamcommunity-a.akamaihd.net/economy/image/...",
-          "price": "$4.17",
-          "float": "0.2453",
-          "pattern": "n/a",
-          "holdBanEndTime": "2026-02-20T12:00:00"
-        }
+  {
+  "assetId": "69696911146",
+  "name": "★ Moto Gloves | Smoke Out",
+  "quality": "Field-Tested",
+  "type": "Extraordinary Gloves",
+  "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDKjcmWBU18h0juDU-MKhjVfjr0A5YmCicYeWJlc_ZwqE-AftwO_u15HpusjPyCBg6HIi4y7UgVXp1kICtnqx/230fx130f",
+  "price": "$137.33",
+  "float": "0.3149",
+  "pattern": "n/a",
+  "holdBanEndTime": "2026-02-20T12:00:00"
+}
+        
       ]
     }
   ]
