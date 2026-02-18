@@ -32,6 +32,22 @@
         }
       ]
     },
+    {
+      "profileUrl": "csgotraders.net/profile/69k1xuc3",
+      "cards": [
+        {
+          "assetId": "6969691566146",
+          "name": "★ Bayonet | Slaughter",
+          "quality": "Minimal Wear",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZYMUrsm1j-9xgEObwgfEh_nvjlWhNzZCveCDfIBj98xqodQ2CZknz55Nfq6PjJzTQXPPrpbXuc7ywTlDi8mppUxB4Pmoe9Vfw7ttIaTO7d5Yd0fSsOGU_-BMlr740psiKVZe5yIpiLxnXO-Q3ISKuM/230fx130f",
+          "price": "$330.33",
+          "float": "0.11154",
+          "pattern": "681",
+          "holdBanEndTime": "2026-02-26T12:00:00"
+        }
+      ]
+    },
     
       {"profileUrl": "csgotraders.net/profile/w7vgipyi",
       "cards": [
