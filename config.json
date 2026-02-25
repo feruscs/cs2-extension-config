@@ -28,7 +28,7 @@
           "price": "$739.10",
           "float": "0.2020",
           "pattern": "n/a",
-          "holdBanEndTime": "2026-02-21T12:00:00"
+          "holdBanEndTime": "null"
         }
       ]
     },
