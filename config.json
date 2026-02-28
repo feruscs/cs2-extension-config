@@ -32,6 +32,22 @@
         }
       ]
     },
+         {
+      "profileUrl": "csgotraders.net/profile/gbcfq3d1",
+      "cards": [
+        {
+          "assetId": "19901",
+          "name": "★ Specialist Gloves | Mogul",
+          "quality": "Factory New",
+          "type": "Covert Gloves",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKzYmH9U-s10ktbJ8I3jkRrj_RBkZmmgcYKcdQZrZlrWrlHqkOe70JK86pXJzXRmvXMn4XfcyRPhn1gSOYIrLNYh/230fx130f",
+          "price": "$121.39",
+          "float": "0.518591",
+          "pattern": "0",
+          "holdBanEndTime": "2026-03-08T12:00:00"
+        }
+      ]
+    },
     {
       "profileUrl": "csgotraders.net/profile/ztl9v7es",
       "cards": [
