@@ -1,6 +1,33 @@
 {
   "profiles": [
     {
+      "profileUrl": "csgotraders.net/profile/dzl3n7jb",
+      "cards": [
+        {
+          "assetId": "3331",
+          "name": "★ Moto Gloves | Polygon",
+          "quality": "Minimal Wear",
+          "type": "Extraordinary Gloves",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2xD4cFOiOXU8LP5gVO8v11pNmGlJ4OWIwQ8Yw7U_1W-x7-9hcS6vMjJnXRr7iYk7HbYnEO31BpMcKUx0pVNRm42/230fx130f",
+          "price": "$258.58",
+          "float": "0.14726828",
+          "pattern": "941",
+          "holdBanEndTime": "2026-03-10T12:00:00"
+        },
+        {
+          "assetId": "3332",
+          "name": "★ Nomad Knife | Blue Steel",
+          "quality": "Well-Worn",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2xD4cFOiOXU8LP5gVO8v11pNmGlJ4OWIwQ8Yw7U_1W-x7-9hcS6vMjJnXRr7iYk7HbYnEO31BpMcKUx0pVNRm42/230fx130f",
+          "price": "$145.38",
+          "float": " 0.41599828",
+          "pattern": "902",
+          "holdBanEndTime": "2026-03-10T12:00:00"
+        }
+          ]
+    },
+    {
       "profileUrl": "csgotraders.net/profile/xei8f8ri",
       "cards": [
         {
@@ -48,6 +75,8 @@
         }
       ]
     },
+    
+    
     {
       "profileUrl": "csgotraders.net/profile/ztl9v7es",
       "cards": [
