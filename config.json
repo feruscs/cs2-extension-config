@@ -56,6 +56,28 @@
           "float": "0.2209",
           "pattern": "683",
           "holdBanEndTime": "2026-03-19T12:00:00"
+        },
+         {
+          "assetId": "69696911147",
+          "name": "★ Ursus Knife | Slaughter",
+          "quality": "Minimal Wear",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxuHbZC597dGJjoWJhfbLP7LWnn8fsMB037_HoYn3jQbh-UQ4Nzv2I46cJAJrZgqF-VK7w-bohsC5tZqfmGwj5HeNK_nGag/230fx130f",
+          "price": "$185.89",
+          "float": "0.093796",
+          "pattern": "188",
+          "holdBanEndTime": "2026-03-19T12:00:00"
+        },
+        {
+          "assetId": "69696911148",
+          "name": "★ Specialist Gloves | Crimson Web",
+          "quality": "Field-Tested",
+          "type": "Extraordinary Gloves",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKzUlHhu-sB1teTE8YXghRqy-hFoN2vydoeccVNrZw3QqATrwLvtjcDtucicyXA27iV27CvfyxK-n1gSOdlkNaYY/230fx130f",
+          "price": "$179.27",
+          "float": "0.28834",
+          "pattern": "509",
+          "holdBanEndTime": "2026-03-19T12:00:00"
         }
       ]
     },
