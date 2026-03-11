@@ -43,6 +43,22 @@
         }
       ]
     },
+    {
+      "profileUrl": "csgotraders.net/profile/r4gtixky",
+      "cards": [
+               {
+          "assetId": "69696911149",
+          "name": "AK-47 | The Empress",
+          "quality": "Field-Tested",
+          "type": "Covert Riffle",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhnwMzJemkV09m7hJKOhOTLPr7Vn35cppMh2L2VrN-h2geyqhc-MD3xJYecIANrMwvZ8wK8wr3nhJC6vJ2dy3B9-n51Yx1fd-M/230fx130f",
+          "price": "$107.02",
+          "float": "0.2209",
+          "pattern": "683",
+          "holdBanEndTime": "2026-03-19T12:00:00"
+        }
+      ]
+    },
      {
       "profileUrl": "csgotraders.net/profile/tc7qey44",
       "cards": [
