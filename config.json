@@ -1,5 +1,32 @@
 {
   "profiles": [
+     {
+      "profileUrl": "csgotraders.net/profile/o0rzf1a7",
+      "cards": [
+        {
+          "assetId": "11",
+          "name": "★ Falchion Knife | Marble Fade",
+          "quality": "Factory New",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJlY20mvbmMbfUqW1Q7MBOhuDG_Zi73gPk-RZsYjr1LdTHJlI-ZFiFrlO5yOjrhp656cyfzHU17ikksXralgv3308bb2-Obg/230fx130f",
+          "price": "$232.65",
+          "float": "0.034737",
+          "pattern": "242",
+          "holdBanEndTime": "2026-03-20T12:00:00"
+        },
+        {
+          "assetId": "3332",
+          "name": "★ Bayonet | Damascus Steel",
+          "quality": "Factory New",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-Jm-LxN4Tck29Y_cg_jriZp9zzjgHt-xE-NjrzcNXBcQA9aFmC_ADvkOq7hse6vZmdznE1uj5iuygjbz8Zwg/230fx130f",
+          "price": "$211.82",
+          "float": "0.06871",
+          "pattern": "976",
+          "holdBanEndTime": "2026-03-20T12:00:00"
+        }
+          ]
+    },
     {
       "profileUrl": "csgotraders.net/profile/dzl3n7jb",
       "cards": [
