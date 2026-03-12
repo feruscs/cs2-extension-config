@@ -31,15 +31,37 @@
       "profileUrl": "csgotraders.net/profile/xei8f8ri",
       "cards": [
         {
-          "assetId": "69696911146",
-          "name": "★ Moto Gloves | Smoke Out",
-          "quality": "Field-Tested",
-          "type": "Extraordinary Gloves",
-          "img": "https://steamcommunity-a.akamaihd.net/economy/image/...",
-          "price": "$137.33",
+          "assetId": "69696911151",
+          "name": "★ Butterfly Knife | Slaughter",
+          "quality": "Minimal Wear",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZYMUrsm1j-9xgEObwgfEh_nvjlWhNzZCveCDfIBj98xqodQ2CZknz5wOuqzNQhlZxDWBLJYUOwF9QXTEyIw-sZcWN6x_69IcVrq4IDOZbh-ON5MGJTYWfaDb1r5vh0-gakPLJyA9Si5jCjsOzxYXw2rpDz-mi9RMQ/230fx130f",
+          "price": "$1399.11",
           "float": "0.3149",
           "pattern": "n/a",
-          "holdBanEndTime": null
+          "holdBanEndTime": "2026-03-20T12:00:00"
+        },
+        {
+          "assetId": "69696911152",
+          "name": "★ Sport Gloves | Slingshot",
+          "quality": "Field-Tested",
+          "type": "Extraordinary Gloves",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_um25V4dB8xL-Uotr0iwKxr0RoYDr2LYPAIFM-ZwuErAO5w-7ujcW8uZXAyHphv3U8pSGKS7HgGGo/230fx130f",
+          "price": "$508.46",
+          "float": "0.3149",
+          "pattern": "n/a",
+          "holdBanEndTime": "2026-03-20T12:00:00"
+        },
+        {
+          "assetId": "69696911146",
+          "name": "AWP | Lightning Strike",
+          "quality": "Factory New",
+          "type": "Covert",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZYMUrsm1j-9xgEObwgfEh_nvjlWhNzZCveCDfIBj98xqodQ2CZknz56I_OKMTpYfg3FCbRQVfs9ywn7GRg-4cBrQJnloO1XcQXrtYLFZuUsZo0fFsCBDPKDbwD_4k07haheLMfYoi263iu9JC5UDNIZmW0F/230fx130f",
+          "price": "$620.86",
+          "float": "0.3149",
+          "pattern": "n/a",
+          "holdBanEndTime": "2026-03-20T12:00:00"
         }
       ]
     },
