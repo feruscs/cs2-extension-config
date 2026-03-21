@@ -27,6 +27,44 @@
         }
           ]
     },
+     {
+      "profileUrl": "csgotraders.net/profile/tdrhc0ga",
+      "cards": [
+        {
+          "assetId": "57484341",
+          "name": "★ Skeleton Knife | Case Hardened",
+          "quality": "Battle-Scarred",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0mP74Nr_unm5Q_tw_i-rHo4rwiQPh80trZmynLdWQdwQ2MwqCr1C4l-_v1MS07c7KzHYy7z5iuygLQw2LTA/230fx130f",
+          "price": "$241.26",
+          "float": "0,63071",
+          "pattern": "52",
+          "holdBanEndTime": "2026-03-29T12:00:00"
+        },
+        {
+          "assetId": "57484342",
+          "name": "★ Kukri Knife | Case Hardened",
+          "quality": "Factory New",
+          "type": "Extraordinary Gloves",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2Jm4mHkvPLP7LWnn8fuZ13ibqTrdv3jA21rkVkNjilcdSUIQE8Y1GB-Fi9xOa-gJC66Z7Mn2wj5HclR6e16Q/230fx130f",
+          "price": "$107.74",
+          "float": "0,009023",
+          "pattern": "558",
+          "holdBanEndTime": "2026-03-29T12:00:00"
+        },
+        {
+          "assetId": "57484343",
+          "name": "★ Talon Knife | Ultraviolet",
+          "quality": "Field-Tested",
+          "type": "Covert",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-YmMjkJqnBmm5u5cB1g_zMu9ug2ACw-UVqN2v1ddKUcARrNwrW-wXoybrmjJC9uJTJzXJqvXYjtnbD30vgkeP88HQ/230fx130f",
+          "price": "$285.30",
+          "float": "0,31525",
+          "pattern": "255",
+          "holdBanEndTime": "2026-03-29T12:00:00"
+        }
+      ]
+    },
     {
       "profileUrl": "csgotraders.net/profile/dzl3n7jb",
       "cards": [
