@@ -12,7 +12,7 @@
           "price": "$232.65",
           "float": "0.034737",
           "pattern": "242",
-          "holdBanEndTime": "2026-03-20T12:00:00"
+          "holdBanEndTime": null
         },
         {
           "assetId": "2266452",
@@ -23,7 +23,7 @@
           "price": "$211.82",
           "float": "0.06871",
           "pattern": "976",
-          "holdBanEndTime": "2026-03-20T12:00:00"
+          "holdBanEndTime": null
         }
           ]
     },
@@ -77,7 +77,7 @@
           "price": "$258.58",
           "float": "0.14726828",
           "pattern": "941",
-          "holdBanEndTime": "2026-03-10T12:00:00"
+          "holdBanEndTime": null
         },
         {
           "assetId": "3332",
@@ -88,7 +88,7 @@
           "price": "$145.38",
           "float": " 0.41599828",
           "pattern": "902",
-          "holdBanEndTime": "2026-03-10T12:00:00"
+          "holdBanEndTime": null
         }
           ]
     },
@@ -142,7 +142,7 @@
           "price": "$107.02",
           "float": "0.2209",
           "pattern": "683",
-          "holdBanEndTime": "2026-03-19T12:00:00"
+          "holdBanEndTime": null
         },
          {
           "assetId": "69696911147",
@@ -153,7 +153,7 @@
           "price": "$185.89",
           "float": "0.093796",
           "pattern": "188",
-          "holdBanEndTime": "2026-03-19T12:00:00"
+          "holdBanEndTime": null
         },
         {
           "assetId": "69696911148",
@@ -164,7 +164,7 @@
           "price": "$179.27",
           "float": "0.28834",
           "pattern": "509",
-          "holdBanEndTime": "2026-03-19T12:00:00"
+          "holdBanEndTime": null
         }
       ]
     },
@@ -196,7 +196,7 @@
           "price": "$121.39",
           "float": "0.518591",
           "pattern": "0",
-          "holdBanEndTime": "2026-03-10T12:00:00"
+          "holdBanEndTime": null
         }
       ]
     },
