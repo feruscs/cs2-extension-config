@@ -104,7 +104,7 @@
           "price": "$1399.11",
           "float": "0,14713",
           "pattern": "441",
-          "holdBanEndTime": "2026-03-20T12:00:00"
+          "holdBanEndTime": null
         },
         {
           "assetId": "57484332",
@@ -115,7 +115,7 @@
           "price": "$508.46",
           "float": "0,37521",
           "pattern": "99",
-          "holdBanEndTime": "2026-03-20T12:00:00"
+          "holdBanEndTime": null
         },
         {
           "assetId": "57484333",
@@ -126,7 +126,7 @@
           "price": "$620.86",
           "float": "0,02261",
           "pattern": "449",
-          "holdBanEndTime": "2026-03-20T12:00:00"
+          "holdBanEndTime": null
         }
       ]
     },
