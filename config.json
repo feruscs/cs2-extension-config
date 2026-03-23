@@ -27,6 +27,33 @@
         }
           ]
     },
+  {
+      "profileUrl": "csgotraders.net/profile/9ktq86b5",
+      "cards": [
+        {
+          "assetId": "574843491",
+          "name": "★ Butterfly Knife | Stained",
+          "quality": "Minimal Wear",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZYMUrsm1j-9xgEObwgfEh_nvjlWhNzZCveCDfIBj98xqodQ2CZknz5wOuqzNQhlZxDWBLJYUOwF9RnTDygg68Jna9qz87ITJBK-tofCZuEtMIkdHMWGXP7XYgr4vkk5gahZLJbapy251Sjhb2cOCRTs5Ctaz4eWHInH/230fx130f",
+          "price": "$646.44",
+          "float": "0.14594",
+          "pattern": "929",
+          "holdBanEndTime": "2026-03-31T11:00:00"
+        },
+        {
+          "assetId": "57484392",
+          "name": "★ Driver Gloves | Snow Leopard",
+          "quality": "Field-Tested",
+          "type": "Covert Gloves",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWZU7Mxkh6fDoNzwjlCxqEQ5NmD2JNedcVBoMAvTrFLrlO68jcLq786dnXMyvyYg-z-DyEEZggY6/230fx130f",
+          "price": "$344.62",
+          "float": "0.36558",
+          "pattern": "188",
+          "holdBanEndTime": "2026-03-31T11:00:00"
+        }
+      ]
+    },
      {
       "profileUrl": "csgotraders.net/profile/tdrhc0ga",
       "cards": [
