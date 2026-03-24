@@ -83,13 +83,24 @@
           "assetId": "57484343",
           "name": "★ Talon Knife | Ultraviolet",
           "quality": "Field-Tested",
-          "type": "Covert",
+          "type": "Covert Knife",
           "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfxPrMfipP7dezhr-YmMjkJqnBmm5u5cB1g_zMu9ug2ACw-UVqN2v1ddKUcARrNwrW-wXoybrmjJC9uJTJzXJqvXYjtnbD30vgkeP88HQ/230fx130f",
           "price": "$285.30",
           "float": "0,31525",
           "pattern": "255",
           "holdBanEndTime": "2026-03-29T11:00:00"
-        }
+        },
+        {
+          "assetId": "57484344",
+          "name": "★ Nomad Knife | Tiger Tooth",
+          "quality": "Factory New",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3mr-fnvDxIYTehGpf78BOhuDG_Zi73VXg-hc_ZGn7I9eSdAY5Zw7V_QO5l7u5jMS0vM-YzXdkuCcm53-ImQv330_pe6oU-A/230fx130f",
+          "price": "$221.15",
+          "float": "0,008564",
+          "pattern": "292",
+          "holdBanEndTime": "2026-04-01T11:00:00"
+        },
       ]
     },
     {
