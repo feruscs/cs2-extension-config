@@ -27,6 +27,22 @@
         }
           ]
     },
+    {
+      "profileUrl": "csgotraders.net/profile/6dbto1bk",
+      "cards": [
+        {
+          "assetId": "574843497",
+          "name": "★ Kukri Knife | Scorched",
+          "quality": "Field-Tested",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJkIGbh_vxDLbUkmJE5YshjLzArNmm2Fex_hY6ZGylJoadJgI_YluE_1Dslbu7gsS06ZXIwHpnpGB8sl1kT8Ha/230fx130f",
+          "price": "$56.60",
+          "float": "0.24576",
+          "pattern": "449",
+          "holdBanEndTime": "2026-04-07T11:00:00"
+        }
+      ]
+    },
   {
       "profileUrl": "csgotraders.net/profile/9ktq86b5",
       "cards": [
