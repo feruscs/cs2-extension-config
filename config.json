@@ -44,29 +44,73 @@
       ]
     },
   {
-      "profileUrl": "csgotraders.net/profile/9ktq86b5",
+      "profileUrl": "csgotraders.net/profile/sv9dvrnu",
       "cards": [
         {
           "assetId": "574843491",
-          "name": "★ Butterfly Knife | Stained",
-          "quality": "Minimal Wear",
+          "name": "★ Bayonet | Lore",
+          "quality": "Field-Tested",
           "type": "Covert Knife",
-          "img": "https://steamcommunity-a.akamaihd.net/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZYMUrsm1j-9xgEObwgfEh_nvjlWhNzZCveCDfIBj98xqodQ2CZknz5wOuqzNQhlZxDWBLJYUOwF9RnTDygg68Jna9qz87ITJBK-tofCZuEtMIkdHMWGXP7XYgr4vkk5gahZLJbapy251Sjhb2cOCRTs5Ctaz4eWHInH/230fx130f",
-          "price": "$646.44",
-          "float": "0.14594",
-          "pattern": "929",
-          "holdBanEndTime": null
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpotLu8JAllx8zLZAJA7cW5moWfqPv7Ib7um25V4dB8xOiZooqg3FKyqkM6Ym2hLdKRIFNsYlvQrALqk7--hJ6-uprNz3UwuHU8pSGK3s1dbiE/230fx130f",
+          "price": "$247.87",
+          "float": "0.19419",
+          "pattern": "41",
+          "holdBanEndTime": "2026-04-17T11:00:00"
         },
         {
           "assetId": "57484392",
-          "name": "★ Driver Gloves | Snow Leopard",
+          "name": "★ Driver Gloves | Imperial Plaid",
           "quality": "Field-Tested",
           "type": "Covert Gloves",
-          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ95t2xgYGZqOD8Oq_UqWZU7Mxkh6fDoNzwjlCxqEQ5NmD2JNedcVBoMAvTrFLrlO68jcLq786dnXMyvyYg-z-DyEEZggY6/230fx130f",
-          "price": "$344.62",
-          "float": "0.36558",
-          "pattern": "188",
-          "holdBanEndTime": null
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAX1R3LjtQurWzLhRfwP_BcjZ9_NC3nYS0h-LmI7fUqWZU7Mxkh6eU99uh0VWxrURvMmGnIYHDelBqZwvV-FfvkOy9gce_vZ6fzyZk7yUi-z-DyDt6vfob/230fx130f",
+          "price": "$219.57",
+          "float": "0.31243",
+          "pattern": "135",
+          "holdBanEndTime": "2026-04-17T11:00:00"
+        },
+        {
+          "assetId": "574843493",
+          "name": "★ Flip Knife | Lore",
+          "quality": "Factory New",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1f_BYQJB-eOwmImbqPv7Ib7ummJW4NE_ju-Rpo6m2QziqEJsZm_0IoKSclI8MAvX-QS6k7u-hpG56sidmyRkvT5iuygfdmLhDg/230fx130f",
+          "price": "$280.11",
+          "float": "0.05489",
+          "pattern": "293",
+          "holdBanEndTime": "2026-04-17T11:00:00"
+        },
+        {
+          "assetId": "574843494",
+          "name": "★ Survival Knife | Boreal Forest",
+          "quality": "Field-Tested",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC595MWJko-ZkuTgDLnehG5Q5Pp8j-3I4IG72gXiqRFqY2n6IoDBelVqYAuB_FO_wezqh5O5uJ6fynBn7nV3sH-PnQv330_6ZPc13Q/230fx130f",
+          "price": "$50.52",
+          "float": "0.25614",
+          "pattern": "919",
+          "holdBanEndTime": "2026-04-17T11:00:00"
+        },
+        {
+          "assetId": "574843495",
+          "name": "AK-47 | Asiimov",
+          "quality": "Minimal Wear",
+          "type": "Covert",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot7HxfDhjxszJemkV092lnYmGmOHLP7LWnn8fvpMkjOqS99Smiwzk_0VvamH0LIHEdwFqYw2G_QC3lefsjZS4uJXLyWwj5HclxVTx0A/230fx130f",
+          "price": "$57.17",
+          "float": "0.13884",
+          "pattern": "964",
+          "holdBanEndTime": "2026-04-17T11:00:00"
+        },
+        {
+          "assetId": "574843496",
+          "name": "★ Kukri Knife | Case Hardened",
+          "quality": "Field-Tested",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2Jm4mHkvPLPr7Vn35cpsQk3b2X9NTx2wXi8xdlY2_7JILBew9oaQ6G-wO6kri81pC4u57MnyF9-n51c0z27Cw/230fx130f",
+          "price": "$113.20",
+          "float": "0.24457",
+          "pattern": "220",
+          "holdBanEndTime": "2026-04-17T11:00:00"
         }
       ]
     },
