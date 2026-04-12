@@ -283,7 +283,7 @@
   "holdBanEndTime": null
 },
         {
-          "assetId": "1010",
+          "assetId": "1224320",
           "name": "★ Bayonet | Marble Fade",
           "quality": "Factory New",
           "type": "Covert Knife",
@@ -292,7 +292,17 @@
           "float": "0.02385",
           "pattern": "259",
           "holdBanEndTime": null
-        }
+        },
+        {
+          "assetId": "432453221",
+          "name": "★ Bowie Knife",
+          "quality": "Vanilla",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaIAlp1fb3YihQ-tWglYy0lfjjOr6fxjpQ7MFz373Fodyl0AXh-ENkMWinJ4eXcA8-ZFHUq1K_xum70ZO56oOJlyUgjHI5fA/230fx130f",
+          "price": "$140.56",
+          "float": "",
+          "pattern": "29",
+          "holdBanEndTime": "2026-04-20T12:00:00"
         ]
     },
     {
