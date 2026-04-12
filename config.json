@@ -115,28 +115,28 @@
       ]
     },
      {
-      "profileUrl": "csgotraders.net/profile/tdrhc0ga",
+      "profileUrl": "csgotraders.net/profile/4lvshin5",
       "cards": [
         {
           "assetId": "57484341",
           "name": "★ Skeleton Knife | Case Hardened",
-          "quality": "Battle-Scarred",
+          "quality": "Field-Tested",
           "type": "Covert Knife",
           "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfwPjNfThW49KJlZG0mP74Nr_unm5Q_tw_i-rHo4rwiQPh80trZmynLdWQdwQ2MwqCr1C4l-_v1MS07c7KzHYy7z5iuygLQw2LTA/230fx130f",
           "price": "$241.26",
-          "float": "0,63071",
-          "pattern": "52",
+          "float": "0,21549",
+          "pattern": "532",
           "holdBanEndTime": null
         },
         {
-          "assetId": "57484342",
-          "name": "★ Kukri Knife | Case Hardened",
-          "quality": "Factory New",
-          "type": "Extraordinary Gloves",
-          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR97c2Jm4mHkvPLP7LWnn8fuZ13ibqTrdv3jA21rkVkNjilcdSUIQE8Y1GB-Fi9xOa-gJC66Z7Mn2wj5HclR6e16Q/230fx130f",
-          "price": "$107.74",
-          "float": "0,009023",
-          "pattern": "558",
+          "assetId": "57484331",
+          "name": "★ Butterfly Knife | Slaughter",
+          "quality": "Minimal Wear",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZYMUrsm1j-9xgEObwgfEh_nvjlWhNzZCveCDfIBj98xqodQ2CZknz5wOuqzNQhlZxDWBLJYUOwF9QXTEyIw-sZcWN6x_69IcVrq4IDOZbh-ON5MGJTYWfaDb1r5vh0-gakPLJyA9Si5jCjsOzxYXw2rpDz-mi9RMQ/230fx130f",
+          "price": "$1399.11",
+          "float": "0,14713",
+          "pattern": "441",
           "holdBanEndTime": null
         },
         {
@@ -159,6 +159,28 @@
           "price": "$221.15",
           "float": "0,008564",
           "pattern": "292",
+          "holdBanEndTime": null
+        },
+        {
+          "assetId": "3331",
+          "name": "★ Moto Gloves | Polygon",
+          "quality": "Minimal Wear",
+          "type": "Extraordinary Gloves",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2xD4cFOiOXU8LP5gVO8v11pNmGlJ4OWIwQ8Yw7U_1W-x7-9hcS6vMjJnXRr7iYk7HbYnEO31BpMcKUx0pVNRm42/230fx130f",
+          "price": "$258.58",
+          "float": "0.14726828",
+          "pattern": "941",
+          "holdBanEndTime": null
+        },
+        {
+          "assetId": "69696911148",
+          "name": "★ Specialist Gloves | Crimson Web",
+          "quality": "Field-Tested",
+          "type": "Extraordinary Gloves",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKzUlHhu-sB1teTE8YXghRqy-hFoN2vydoeccVNrZw3QqATrwLvtjcDtucicyXA27iV27CvfyxK-n1gSOdlkNaYY/230fx130f",
+          "price": "$179.27",
+          "float": "0.28834",
+          "pattern": "509",
           "holdBanEndTime": null
         }
       ]
@@ -263,9 +285,86 @@
           "float": "0.28834",
           "pattern": "509",
           "holdBanEndTime": null
+        },
+        {
+    "assetId": "69696911237",
+    "name": "Austin 2025 Viewer Pass",
+    "quality": "",
+    "type": "Viewer Pass",
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7hlNIIs_rBVJXwPRUvf_h52GHFxhNlYH5O-aOwZzwL2dJ2obvd_mx9Lak6etZuOClzpS65Z32OqSpY_00Q3g-hU-ajiiIYaSbEZgNpkQHW2S/230fx130f",
+    "price": "$7.02",
+    "float": "",
+    "pattern": "",
+    "holdBanEndTime": "2026-02-20T12:00:00"
+  },
+    {
+    "assetId": "69696911337",
+    "name": "Austin 2025 Viewer Pass",
+    "quality": "",
+    "type": "Viewer Pass",
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7hlNIIs_rBVJXwPRUvf_h52GHFxhNlYH5O-aOwZzwL2dJ2obvd_mx9Lak6etZuOClzpS65Z32OqSpY_00Q3g-hU-ajiiIYaSbEZgNpkQHW2S/230fx130f",
+    "price": "$7.02",
+    "float": "",
+    "pattern": "",
+    "holdBanEndTime": "2026-02-20T12:00:00"
+  },
+    {
+    "assetId": "69696911437",
+    "name": "Austin 2025 Viewer Pass",
+    "quality": "",
+    "type": "Viewer Pass",
+    "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXX7hlNIIs_rBVJXwPRUvf_h52GHFxhNlYH5O-aOwZzwL2dJ2obvd_mx9Lak6etZuOClzpS65Z32OqSpY_00Q3g-hU-ajiiIYaSbEZgNpkQHW2S/230fx130f",
+    "price": "$7.02",
+    "float": "",
+    "pattern": "",
+    "holdBanEndTime": "2026-02-20T12:00:00"
+  },
+        {
+  "assetId": "69696911142",
+  "name": "'Two Times' McCoy | USAF TACP",
+  "quality": "n/a",
+  "type": "Agent",
+  "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztUoreaOBM27OXJYzRD4si72tbdwfTyZL_Qlz4A6pIo3-yT8d_xjQK3_Rc9Njz6coaQcFBoMwvY_VCggbC4vjbmR48/230fx130f",
+  "price": "$9.80",
+  "float": "n/a",
+  "pattern": "n/a",
+  "holdBanEndTime": "2026-02-20T12:00:00"
+},
+{
+  "assetId": "69696911143",
+  "name": "'The Doctor' Romanov | Sabre",
+  "quality": "n/a",
+  "type": "Agent",
+  "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztDu4WnKgtr0v33ZzxQ5d24gIjFz_OlZbqJxD4C68cp2u-Z9Ijw0AXmrUZoZm2iLI-cc1M7MAmC_FntwvCv28EpZvYmDw/230fx130f",
+  "price": "$9.50",
+  "float": "n/a",
+  "pattern": "n/a",
+  "holdBanEndTime": "2026-02-20T12:00:00"
+},
+{
+  "assetId": "69696911140",
+  "name": "★ Hydra Gloves | Mangrove",
+  "quality": "Field-Tested",
+  "type": "Extraordinary Gloves",
+  "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibK8LxVh7PTEfitH_-O0mI-Ek__7JrXVqWNI7Ndwte7T8In7t1ixqgc0NiucedPWKmlsIwmTuT7jlLq2wMui6JzAnXs1uyAjsHzZyxPkiBBFPe1uhvycGF6bDvZASKXQUHbW5JlwQTLqR00VJ-vLsQ/230fx130f",
+  "price": "$78.00",
+  "float": "0.31",
+  "pattern": "n/a",
+  "holdBanEndTime": "2026-02-20T12:00:00"
+},
+        {
+          "assetId": "1010",
+          "name": "★ Bayonet | Marble Fade",
+          "quality": "Factory New",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZYMUrsm1j-9xgEObwgfEh_nvjlWhNzZCveCDfIBj98xqodQ2CZknz55Nfq6PjJzTQXPPq1fTvc28TfqCCM318tqU9-iuboCKg7nstTFOuMlOIlFGcPQXPSGNwD64kg50_BfepCJpSrt3yS9bDgUG028L_sqaPw/230fx130f",
+          "price": "$376.60",
+          "float": "0.02385",
+          "pattern": "259",
+          "holdBanEndTime": "2026-03-03T12:00:00"
         }
-      ]
-    },
+        ]
+       },
      {
       "profileUrl": "csgotraders.net/profile/khq00zdc",
       "cards": [
