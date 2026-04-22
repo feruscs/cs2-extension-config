@@ -28,18 +28,29 @@
           ]
     },
     {
-      "profileUrl": "csgotraders.net/profile/6dbto1bk",
+      "profileUrl": "https://csgotraders.net/profile/qukgpdw3",
       "cards": [
         {
-          "assetId": "574843497",
-          "name": "★ Kukri Knife | Scorched",
-          "quality": "Field-Tested",
+          "assetId": "574943491",
+          "name": "★ Huntsman Knife | Crimson Web",
+          "quality": "Minimal Wear",
           "type": "Covert Knife",
-          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf2ObDYzR9_8yJkIGbh_vxDLbUkmJE5YshjLzArNmm2Fex_hY6ZGylJoadJgI_YluE_1Dslbu7gsS06ZXIwHpnpGB8sl1kT8Ha/230fx130f",
-          "price": "$56.60",
-          "float": "0.24576",
-          "pattern": "449",
-          "holdBanEndTime": "2026-04-07T11:00:00"
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZYMUrsm1j-9xgEObwgfEh_nvjlWhNzZCveCDfIBj98xqodQ2CZknz5wOuqzNQhzcwfWCKNfUMoy7Tf7DCUh18tqU9-iub4AewjptdHGMLIkN98eSceEXKSHYAn9uR1pgfJfLpaIp3i81H7tPG4UG028gJC4GZc/230fx130f",
+          "price": "$250.53",
+          "float": "0.13491",
+          "pattern": "51",
+          "holdBanEndTime": "2026-04-30T11:00:00"
+        },
+        {
+          "assetId": "574943492",
+          "name": "★ Huntsman Knife | Autotronic",
+          "quality": "Minimal Wear",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJfx_LLZTRB7dCJk5O0n-L6J6jcl2Vu6dBlhf3T-oL8i2u4ohQ0J3ehLYeddVM2YVvT-gDoxevr0JXp75qdwSMyuXEh4H3fyROzgRpJO7c9m7XAHtVIAwz8/230fx130f",
+          "price": "$126.85",
+          "float": "0.12071",
+          "pattern": "272",
+          "holdBanEndTime": "2026-04-30T11:00:00"
         }
       ]
     },
