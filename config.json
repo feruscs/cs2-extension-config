@@ -230,68 +230,90 @@
         ]
     },
     {
-      "profileUrl": "csgotraders.net/profile/dzl3n7jb",
+      "profileUrl": "csgotraders.net/profile/ysm2acr0",
       "cards": [
         {
-          "assetId": "3331",
-          "name": "★ Moto Gloves | Polygon",
-          "quality": "Minimal Wear",
-          "type": "Extraordinary Gloves",
-          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DeXEl7NwdOtbagFABs3OXNYgJP48i5hoOSlPvxDK_Dn2xD4cFOiOXU8LP5gVO8v11pNmGlJ4OWIwQ8Yw7U_1W-x7-9hcS6vMjJnXRr7iYk7HbYnEO31BpMcKUx0pVNRm42/230fx130f",
-          "price": "$258.58",
-          "float": "0.14726828",
-          "pattern": "941",
-          "holdBanEndTime": null
+          "assetId": "4983021",
+          "name": "★ StatTrak™ Falchion Knife | Black Laminate",
+          "quality": "Field-Tested",
+          "type": "Covert Knife",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf1fLEcjVL49KJk5O0kfb4MLPYmWVu6slwieL--Y34gVq1vxYDPjynfcPIbA8-ZQuGr1e6xem9h5a0vM6dy3Nq7yV0tH3dn0TlhB9IaeVu0aSaQV-AR_serovjQfU/230fx130f",
+          "price": "$87.61",
+          "float": "0,37409",
+          "pattern": "584",
+          "holdBanEndTime": "2026-05-05T12:00:00"
         },
         {
-          "assetId": "3332",
-          "name": "★ Nomad Knife | Blue Steel",
+          "assetId": "4983022",
+          "name": "★ Broken Fang Gloves | Unhinged",
           "quality": "Well-Worn",
-          "type": "Covert Knife",
-          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf3ObcdTJN_uO3hb-Jm-LxN4Tck29Y_cg_jriZp9zzjgHt-xE-NjrzcNXBcQA9aFmC_ADvkOq7hse6vZmdznE1uj5iuygjbz8Zwg/230fx130f",
-          "price": "$145.38",
-          "float": " 0.41599828",
-          "pattern": "902",
-          "holdBanEndTime": null
+          "type": "Covert Gloves",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAR0hwIQFTibi3JAxl3fXJfzp969C5goWYqPjkNqnQgmJe5pQhtfrP9Ifwm1-9pSw-Pzigf-nIJ1JnJAXO-VfsxOnnjJPtu5vPyCc17iYr53jZl0Cwgx5Kbrdp1_adGwicA6VIGr7CWCQxFn60Tg/230fx130f",
+          "price": "$64.61",
+          "float": "0,38335",
+          "pattern": "323",
+          "holdBanEndTime": "2026-05-05T12:00:00"
         }
           ]
     },
     {
-      "profileUrl": "csgotraders.net/profile/rbtiwymr",
+      "profileUrl": "csgotraders.net/profile/nucgkc8y",
       "cards": [
         {
           "assetId": "57484331",
-          "name": "★ Butterfly Knife | Slaughter",
+          "name": "MP7 | Bloodsport",
           "quality": "Minimal Wear",
-          "type": "Covert Knife",
-          "img": "https://steamcommunity-a.akamaihd.net/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZYMUrsm1j-9xgEObwgfEh_nvjlWhNzZCveCDfIBj98xqodQ2CZknz5wOuqzNQhlZxDWBLJYUOwF9QXTEyIw-sZcWN6x_69IcVrq4IDOZbh-ON5MGJTYWfaDb1r5vh0-gakPLJyA9Si5jCjsOzxYXw2rpDz-mi9RMQ/230fx130f",
-          "price": "$1399.11",
-          "float": "0,14713",
-          "pattern": "441",
-          "holdBanEndTime": null
+          "type": "Covert SMG",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpou6ryFABz7P7YJgJA4NO5kJObmOXgDLfYkWNFpsRz3-qSpdis2AW3rhFvYWn3LISSdgRsYVzR8lC7lOm9gMO_786bwHd9-n51Z2R5ZH4/230fx130f",
+          "price": "$45.04",
+          "float": "0,12172",
+          "pattern": "474",
+          "holdBanEndTime": "2026-05-05T12:00:00"
         },
         {
           "assetId": "57484332",
-          "name": "★ Sport Gloves | Slingshot",
-          "quality": "Field-Tested",
-          "type": "Extraordinary Gloves",
-          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1JmMR1osbaqPQJz7ODYfi9W9eOlmImFkOT8PK_um25V4dB8xL-Uotr0iwKxr0RoYDr2LYPAIFM-ZwuErAO5w-7ujcW8uZXAyHphv3U8pSGKS7HgGGo/230fx130f",
-          "price": "$508.46",
-          "float": "0,37521",
-          "pattern": "99",
-          "holdBanEndTime": null
+          "name": "UMP-45 | Moonrise",
+          "quality": "Well-Worn",
+          "type": "SMG",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo7e1f1Jf0vL3ZDBSuImJmY-EmeX9IL7uhX5f-8BlteTE8YXghRq1-hU_YWCiI4Oddw46aAnX_Ve_wOfu1sS06cjBwCQ36SMl5SvezBy_n1gSOfEuqrPZ/230fx130f",
+          "price": "$0.99",
+          "float": "0,38811",
+          "pattern": "642",
+          "holdBanEndTime": "2026-05-05T12:00:00"
         },
         {
           "assetId": "57484333",
-          "name": "AWP | Lightning Strike",
-          "quality": "Factory New",
-          "type": "Covert",
-          "img": "https://steamcommunity-a.akamaihd.net/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZYMUrsm1j-9xgEObwgfEh_nvjlWhNzZCveCDfIBj98xqodQ2CZknz56I_OKMTpYfg3FCbRQVfs9ywn7GRg-4cBrQJnloO1XcQXrtYLFZuUsZo0fFsCBDPKDbwD_4k07haheLMfYoi263iu9JC5UDNIZmW0F/230fx130f",
+          "name": "AWP | Black Nile",
+          "quality": "Field-Tested",
+          "type": "Covert Rifle",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpot621FABz7PLfYQJR-M65moW0mvLwOq7c2DgGuZUgiLjF9o72jla3_0M6NWrxcNeUcwdoYVHW8la6kLzu1Mft6MnXiSw0_i2Kk3Y/230fx130f",
           "price": "$620.86",
           "float": "0,02261",
           "pattern": "449",
-          "holdBanEndTime": null
-        }
+          "holdBanEndTime": "2026-05-05T12:00:00"
+        },
+        {
+          "assetId": "57484332",
+          "name": "Desert Eagle | Light Rail",
+          "quality": "Battle-Scarred",
+          "type": "Pistol",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgposr-kLAtl7PTbTjlH7du6kb-Oj_jLO77QgHIf6pYo2bCUoY7x2ge2-0ZpYDr6I4LHJlJtYQnQ_1Lrl-bmjcO57pmcmmwj5Hc--hfdcA/230fx130f",
+          "price": "$0.99",
+          "float": "0,47048",
+          "pattern": "623",
+          "holdBanEndTime": "2026-05-05T12:00:00"
+        },
+        {
+          "assetId": "57484333",
+          "name": "P2000 | Amber Fade",
+          "quality": "Well-Worn",
+          "type": "Pistol",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZYMUrsm1j-9xgEObwgfEh_nvjlWhNzZCveCDfIBj98xqodQ2CZknz5zP_PnYGc3TQXDPqZfWPAF-Q34CCs-4cRcWdKy_q4LZ1nmt9HHYbB-Y99JH8SEX_CPZ134uB8wiKBYL52O8ynvjnzuP24JWhf1ujVTVw7lZPY/230fx130f",
+          "price": "$620.86",
+          "float": "0,39051",
+          "pattern": "530",
+          "holdBanEndTime": "2026-05-05T12:00:00"
+        }        
       ]
     },
     {
