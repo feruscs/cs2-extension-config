@@ -223,8 +223,8 @@
           "type": "Agent",
           "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXA6Q1NL4kmrAlOA0_FVPCi2t_fUkRxNztDu4W1OQhm1uDbeDJM7dCJgoGZkLmjZrmIkj0Hv5Zz3-rEo9igiQLs8hI9Mmzwco6VcgY9Y16Gq1W5wOvpm9bi6yLW8eON/230fx130f",
           "price": "$179.27",
-          "float": "0.28834",
-          "pattern": "509",
+          "float": "",
+          "pattern": "",
           "holdBanEndTime": "2026-05-05T12:00:00"
         }
         ]
