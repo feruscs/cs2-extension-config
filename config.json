@@ -448,18 +448,40 @@
       ]
     },
          {
-      "profileUrl": "csgotraders.net/profile/gbcfq3d1",
+      "profileUrl": "csgotraders.net/profile/kijbejc6",
       "cards": [
         {
-          "assetId": "19901",
-          "name": "★ Specialist Gloves | Mogul",
+          "assetId": "43832201",
+          "name": "★ Skeleton Knife",
+          "quality": "",
+          "type": "Covert Knive",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXU5A1PIYQh5hlcX0nvUOGsx8DdQBJjIAVHubSaIAlp1fb3YjZH4Nmim47FxvH3Z-uAlzMFvJUh0uvC9I2t0VLs-EttMDumI9SQdwZvYV3R_FG3lfCv28Fh7LHQAw/230fx130f",
+          "price": "$261.31",
+          "float": "",
+          "pattern": "",
+          "holdBanEndTime": "2026-05-06T12:00:00"
+        },
+        {
+          "assetId": "43832202",
+          "name": "★ Butterfly Knife | Rust Coat",
           "quality": "Battle-Scarred",
-          "type": "Covert Gloves",
-          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DAQ1h3LAVbv6mxFABs3OXNYgJR_Nm1nYGHnuTgDKzYmH9U-s10ktbJ8I3jkRrj_RBkZmmgcYKcdQZrZlrWrlHqkOe70JK86pXJzXRmvXMn4XfcyRPhn1gSOYIrLNYh/230fx130f",
-          "price": "$121.39",
-          "float": "0.518591",
-          "pattern": "0",
-          "holdBanEndTime": null
+          "type": "Covert Knive",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0ebcZThQ6tCvq4GaqOTgNr7dqWBf4cN0teHE9JrsxgLl_hZvNm-mLYfGJ1NoNV6C_wLvwurthcS6vJnAzycyuyhz5CvcmRGpwUYbcWYJVj0/230fx130f",
+          "price": "$531.37",
+          "float": "0.55864",
+          "pattern": "997",
+          "holdBanEndTime": "2026-05-06T12:00:00"
+        },
+        {
+          "assetId": "43832203",
+          "name": "USP-S | Printstream",
+          "quality": "Battle-Scarred",
+          "type": "Covert Pistol",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpoo6m1FBRp3_bGcjhQ09-jq5WYh8jkIbLfgnhF-sBwh9bN_Iv9nBrtrUY-MD33co-RJlQ9NVHW_wO9k-y6gsW_7cyanHZkunUr4XnbnB23n1gSOU78gfTH/230fx130f",
+          "price": "$130.44",
+          "float": "0.06882",
+          "pattern": "745",
+          "holdBanEndTime": "2026-05-06T12:00:00"
         }
       ]
     },
