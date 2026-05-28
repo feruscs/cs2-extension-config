@@ -488,18 +488,18 @@
     
     
     {
-      "profileUrl": "csgotraders.net/profile/ztl9v7es",
+      "profileUrl": "csgotraders.net/profile/3pbj325m",
       "cards": [
         {
           "assetId": "696969166146",
-          "name": "★ Butterfly Knife | Crimson Web",
-          "quality": "Field-Tested",
+          "name": "★ Survival Knife | Slaughter",
+          "quality": "Minimal Wear",
           "type": "Covert Knife",
-          "img": "https://steamcommunity-a.akamaihd.net/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZYMUrsm1j-9xgEObwgfEh_nvjlWhNzZCveCDfIBj98xqodQ2CZknz5wOuqzNQhlZxDWBLJYUOwF_BHTHiIw-_huUdO_4rZIeF68sNeQNeEpNdxOS8eGDvaOYwyo7h1t06ZVJsfdpnu62X7sO2gIXw2rpDyOnkLC0Q/230fx130f",
-          "price": "$739.10",
-          "float": "0.2020",
-          "pattern": "n/a",
-          "holdBanEndTime": null
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597dGJjoWJhfbLP7LWnn8fscEmjLrCoYik2VXg-ENqNm-mI46VcFVtZg2GrlLtl7q7hsO57ZzMzmwj5HeZC0yaOA/230fx130f",
+          "price": "$111.61",
+          "float": "0.09317",
+          "pattern": "624",
+          "holdBanEndTime": "2026-06-03T12:00:00"
         }
       ]
     },
