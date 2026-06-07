@@ -19,28 +19,13 @@
 
     "76561199435571830": [
       {
-        "name": "M4A1-S | Printstream",
-        "price": "300.00",
-        "float": "0.001",
-        "seed": "123",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwjFS4_ega6F_H_OGMWrEwL9lj_F7Rienhgk1tjyIpYPwJiPTcAAoCpsiEO5ZsUbpm9C2Zuni4VHW3o5EzSX62HxP7Sg96-hWVqYi_6TJz1aW0nxrkGs",
-        "lockedUntil": "2026-06-10T18:00:00Z"
-      },
-      {
-        "name": "AK-47 | B the Monster (Factory New)",
-        "price": "576.44",
-        "float": "0.0657",
-        "seed": "641",
-        "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwlcK3wiFO0P24bbZ9IeOAMWqfz_1itfNWTiLnwiIrujqNjsGocC6QPQNyA8FxReZYtEHrw4ezMe_nsgbWjYIXni782ipA5yxv5OkET-N7rajaE730",
-        "stickers": [
-          {
-            "name": "00 Nation | Rio 2022",
-            "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNioOinHtwQ67p36pAuzFxj1zsa2_3IMvvD8MPQ5efKSDT7JmL5zseUxH3G2zER0sWjRytu3MSXAlfyMHLc"
-          },
-          {
-            "name": "Semi-Precious #59629",
-            "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IW2MHqH6lhKpcj_6WbwURPOip3u9CRe0PG8cbd5IfzdXT_Bwr4u4rU9GSrrx09042TUm4z7eXOVbFcgC5J4Q7QL4BW_x4CzMPSiuVKoeSA8mg"
-          }
+        "name": "★ Survival Knife | Slaughter (Minimal Wear)",
+        "price": "113.21",
+        "float": "0.09317",
+        "seed": "624",
+        "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Y7vyne5tsLc-JC2WCwNF6ueZhW2fglEt-5jmDytn_InKRPwQkAsQhE-UJu0a4lYflNO7k41bc34sTyH76kGoXuTxGW3zC",
+        "lockedUntil": "2026-06-15T12:00:00Z"
+      }
         ]
       }
     ]
