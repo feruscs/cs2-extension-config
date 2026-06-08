@@ -24,7 +24,7 @@
         "float": "0.4419",
         "seed": "49",
         "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSI-WsG3SA_v5kue99XD2hkBwqjDCAnobsLGXFOwQnCZQmE7MPu0G5l9HhNe7q7lOK2tgXmCn4jiofvCZisboKWfZw5OSJ2G1OXXQx",
-        "lockedUntil": null
+        "lockedUntil": null,
         "stickers": [
     {
       "name": "Taste Bud",
@@ -49,6 +49,7 @@
         "seed": "881",
         "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OK8Yap5M-SBC2ad_uNztOh8QmexzUt1tj7UnN-vc3KWbw8nCpJzRrJY5xa8xNHuZOLr51bYjtkXyyj5kGoXuQMtNgKM",
         "lockedUntil": null
+        ]
       }
     ]
   }
