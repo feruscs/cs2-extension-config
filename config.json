@@ -488,18 +488,18 @@
     
     
     {
-      "profileUrl": "csgotraders.net/profile/3pbj325m",
+      "profileUrl": "csgotraders.net/profile/euj0lv4p",
       "cards": [
         {
-          "assetId": "696969166146",
-          "name": "★ Survival Knife | Slaughter",
-          "quality": "Minimal Wear",
+          "assetId": "1166146",
+          "name": "★ Paracord Knife | Crimson Web",
+          "quality": "Field-Tested",
           "type": "Covert Knife",
-          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PLGeC597dGJjoWJhfbLP7LWnn8fscEmjLrCoYik2VXg-ENqNm-mI46VcFVtZg2GrlLtl7q7hsO57ZzMzmwj5HeZC0yaOA/230fx130f",
-          "price": "$111.61",
-          "float": "0.09317",
-          "pattern": "624",
-          "holdBanEndTime": null
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOhkYKYqPrxN7LEmyUH68Ylj7HH9Nv02wDj-RBlZTj1JtKScVc9YwqC-Ae6xry6hpftuZ_I1zI97W4S6JfA/230fx130f",
+          "price": "$88.11",
+          "float": "0.160330",
+          "pattern": "849",
+          "holdBanEndTime": "2026-06-22T12:00:00"
         }
       ]
     },
@@ -511,7 +511,7 @@
           "name": "★ Bayonet | Slaughter",
           "quality": "Minimal Wear",
           "type": "Covert Knife",
-          "img": "https://steamcommunity-a.akamaihd.net/economy/image/fWFc82js0fmoRAP-qOIPu5THSWqfSmTELLqcUywGkijVjZYMUrsm1j-9xgEObwgfEh_nvjlWhNzZCveCDfIBj98xqodQ2CZknz55Nfq6PjJzTQXPPrpbXuc7ywTlDi8mppUxB4Pmoe9Vfw7ttIaTO7d5Yd0fSsOGU_-BMlr740psiKVZe5yIpiLxnXO-Q3ISKuM/230fx130f",
+          "img": "https://steamcommunity-a.akamaihd.net/economy/image/-9a81dlWLwJ2UUGcVs_nsVtzdOEdtWwKGZZLQHTxDZ7I56KU0Zwwo4NUX4oFJZEHLbXH5ApeO4YmlhxYQknCRvCo04DEVlxkKgpovbSsLQJf0PzadQJK9eOhkYKYqPrxN7LEmyUH68Ylj7HH9Nv02wDj-RBlZTj1JtKScVc9YwqC-Ae6xry6hpftuZ_I1zI97W4S6JfA/230fx130f",
           "price": "$330.33",
           "float": "0.11154",
           "pattern": "681",
