@@ -19,39 +19,13 @@
 
    "76561199435571830": [
   {
-    "name": "StatTrak™ USP-S | Printstream (Well-Worn)",
+    "name": "★ Ursus Knife | Crimson Web (Field-Tested)",
     "price": "63.41",
-    "float": "0.4419",
-    "seed": "49",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLkjYbf7itX6vytbbZSI-WsG3SA_v5kue99XD2hkBwqjDCAnobsLGXFOwQnCZQmE7MPu0G5l9HhNe7q7lOK2tgXmCn4jiofvCZisboKWfZw5OSJ2G1OXXQx",
+    "float": "124.79",
+    "seed": "574",
+    "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1O_eG7e5tlOc-EC2WD_uNztOh8Qme3xU12tj6Dyoyud3mXbQ4kA5UiRuBbu0W7k9TvM7nr7wOIgthGny72kGoXuZ36FGZZ",
     "lockedUntil": null,
-    "stickers": [
-      {
-        "name": "Taste Bud",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7cjn_lDkShjjoZXy_CRPoOKveKF_H-ScAGCFxKAntrk8HS_hwBght23SydmueSifPFAiW8ZyEbFYtxftl4LmYe7h4FCIlcsbmhOymclS"
-      },
-      {
-        "name": "9INE (Holo) | Paris 2023",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j671DpfhX-kpmupHIJv_P5MaI-cajECDbFlusls-M-HXHgkRx34j6EzNqteCrCZlAgC4wwG7DzLM69YA"
-      },
-      {
-        "name": "9INE (Holo) | Paris 2023",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j671DpfhX-kpmupHIJv_P5MaI-cajECDbFlusls-M-HXHgkRx34j6EzNqteCrCZlAgC4wwG7DzLM69YA"
-      },
-      {
-        "name": "9INE (Holo) | Paris 2023",
-        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjNqgJ3KEtwYnp8j671DpfhX-kpmupHIJv_P5MaI-cajECDbFlusls-M-HXHgkRx34j6EzNqteCrCZlAgC4wwG7DzLM69YA"
-      }
-    ]
   },
-  {
-    "name": "StatTrak™ AWP | Printstream (Well-Worn)",
-    "price": "60.72",
-    "float": "0.4301",
-    "seed": "881",
-    "image": "https://steamcommunity-a.akamaihd.net/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_DVL0OK8Yap5M-SBC2ad_uNztOh8QmexzUt1tj7UnN-vc3KWbw8nCpJzRrJY5xa8xNHuZOLr51bYjtkXyyj5kGoXuQMtNgKM",
-    "lockedUntil": "2026-06-16T12:00:00Z"
-  }
 ]
   }
 }
