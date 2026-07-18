@@ -1,34 +1,5 @@
 {
   "users": {
-    "7373": [
-      {
-        "name": "AK-47 | Redline",
-        "price": "43,74",
-        "float": "0.1744",
-        "seed": "743",
-        "image": "Hhdhd",
-        "stickers": [],
-        "lockedUntil": null
-      },
-      {
-        "name": "Ak-47",
-        "price": "685",
-        "float": "/start",
-        "seed": "/start",
-        "image": "? ???????? ??????",
-        "stickers": [],
-        "lockedUntil": null
-      },
-      {
-        "name": "? ????????????",
-        "price": "46,82",
-        "float": "0.16",
-        "seed": "843",
-        "image": "test",
-        "stickers": [],
-        "lockedUntil": null
-      }
-    ],
     "76561198158752336": [
       {
         "name": "? Flip Knife | Night (Battle-Scarred)",
@@ -408,17 +379,6 @@
         "float": "0.219836",
         "seed": "832",
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk_OKherB0H-CcB3Sfz9Fwou5ucCu_gBgYpDWMjorGLC7DN0N9FJZyFrNe5hm8lNzmP-u05wHfjN8UmCX6hiJM5i06sugLAvcnqaKEj1vfcepqZ8GDv-w",
-        "lockedUntil": null
-      }
-    ],
-    "76561199141750952": [
-      {
-        "name": "AK-47 Redline",
-        "price": "48,63",
-        "float": "0.1543",
-        "seed": "842",
-        "image": "test",
-        "stickers": [],
         "lockedUntil": null
       }
     ]
