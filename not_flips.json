@@ -2,7 +2,7 @@
   "notifications": [
     {
       "id": 1,
-      "steamId": "76561198158752336",
+      "steamId": "76561198167542914",
       "name": "Trade Declined",
       "avatar": "https://csflips.com/assets/csflips-logo-transparent-CXHbBkT9.png",
       "message": "Your deposit has been rejected because the total value is below the current minimum deposit amount of $100 USD.\n\nThis temporary limit has been implemented to prevent bot spam.\n\nPlease try again with a deposit worth $100 or more."
