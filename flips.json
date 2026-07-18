@@ -2,7 +2,7 @@
   "users": {
     "76561198158752336": [
       {
-        "name": "? Flip Knife | Night (Battle-Scarred)",
+        "name": "Flip Knife | Night (Battle-Scarred)",
         "price": "125,61",
         "float": "0.524511",
         "seed": "401",
@@ -10,7 +10,7 @@
         "lockedUntil": null
       },
       {
-        "name": "? Skeleton Knife | Crimson Web (Field-Tested)",
+        "name": "Skeleton Knife | Crimson Web (Field-Tested)",
         "price": "296,97",
         "float": "0.337741",
         "seed": "819",
@@ -18,7 +18,7 @@
         "lockedUntil": null
       },
       {
-        "name": "? Sport Gloves | Amphibious (Field-Tested)",
+        "name": "Sport Gloves | Amphibious (Field-Tested)",
         "price": "343,59",
         "float": "0.219836",
         "seed": "832",
@@ -26,7 +26,7 @@
         "lockedUntil": null
       },
       {
-        "name": "? Karambit | Forest DDPAT (Battle-Scarred)",
+        "name": "Karambit | Forest DDPAT (Battle-Scarred)",
         "price": "412,98",
         "float": "0.680384",
         "seed": "88",
@@ -34,7 +34,7 @@
         "lockedUntil": null
       },
       {
-        "name": "? Hand Wraps | Giraffe (Minimal Wear)",
+        "name": "Hand Wraps | Giraffe (Minimal Wear)",
         "price": "90,07",
         "float": "0.080882",
         "seed": "93",
@@ -42,7 +42,7 @@
         "lockedUntil": null
       },
       {
-        "name": "? Ursus Knife | Night Stripe (Battle-Scarred)",
+        "name": "Ursus Knife | Night Stripe (Battle-Scarred)",
         "price": "70,20",
         "float": "0.950779",
         "seed": "250",
@@ -58,7 +58,7 @@
         "lockedUntil": null
       },
       {
-        "name": "? Huntsman Knife | Ultraviolet (Battle-Scarred)",
+        "name": "Huntsman Knife | Ultraviolet (Battle-Scarred)",
         "price": "67,98",
         "float": "0.580065",
         "seed": "22",
@@ -66,7 +66,7 @@
         "lockedUntil": null
       },
       {
-        "name": "? Nomad Knife | Damascus Steel (Battle-Scarred)",
+        "name": "Nomad Knife | Damascus Steel (Battle-Scarred)",
         "price": "141,87",
         "float": "0.603916",
         "seed": "350",
@@ -74,7 +74,7 @@
         "lockedUntil": null
       },
       {
-        "name": "? Hydra Gloves | Rattler (Factory New)",
+        "name": "Hydra Gloves | Rattler (Factory New)",
         "price": "162,41",
         "float": "0.034064",
         "seed": "761",
@@ -82,7 +82,7 @@
         "lockedUntil": null
       },
       {
-        "name": "? Butterfly Knife | Ultraviolet (Field-Tested)",
+        "name": "Butterfly Knife | Ultraviolet (Field-Tested)",
         "price": "610,12",
         "float": "0.367960",
         "seed": "649",
@@ -106,7 +106,7 @@
         "lockedUntil": null
       },
       {
-        "name": "? Classic Knife | Forest DDPAT (Battle-Scarred)",
+        "name": "Classic Knife | Forest DDPAT (Battle-Scarred)",
         "price": "67,98",
         "float": "0.761415",
         "seed": "276",
@@ -124,7 +124,7 @@
     ],
     "76561199435571830": [
       {
-        "name": "? Karambit | Safari Mesh (Factory New)",
+        "name": "Karambit | Safari Mesh (Factory New)",
         "price": "900",
         "float": "0.0001",
         "seed": "777",
@@ -133,7 +133,7 @@
         "lockedUntil": null
       },
       {
-        "name": "? Karambit",
+        "name": "Karambit",
         "price": "1078.81",
         "float": "0.1844",
         "seed": "3883",
@@ -144,7 +144,7 @@
     ],
     "76561198374344197": [
       {
-        "name": "? Survival Knife | Doppler (Factory New)",
+        "name": "Survival Knife | Doppler (Factory New)",
         "price": "194,56",
         "float": "0.0224",
         "seed": "603",
@@ -226,7 +226,7 @@
     ],
     "76561198968591994": [
       {
-        "name": "? Specialist Gloves | Crimson Web (Field-Tested)",
+        "name": "Specialist Gloves | Crimson Web (Field-Tested)",
         "price": "147,05",
         "float": "0.1993",
         "seed": "549",
@@ -256,7 +256,7 @@
         "lockedUntil": "2026-07-22T15:00:00Z"
       },
       {
-        "name": "? Ursus Knife | Night Stripe (Battle-Scarred)",
+        "name": "Ursus Knife | Night Stripe (Battle-Scarred)",
         "price": "70,20",
         "float": "0.950779",
         "seed": "250",
@@ -264,7 +264,7 @@
         "lockedUntil": null
       },
       {
-        "name": "? Driver Gloves | King Snake (Field-Tested)",
+        "name": "Driver Gloves | King Snake (Field-Tested)",
         "price": "160,91",
         "float": "0.2645",
         "seed": "133",
@@ -272,7 +272,7 @@
         "lockedUntil": null
       },
       {
-        "name": "? Skeleton Knife | Crimson Web (Field-Tested)",
+        "name": "Skeleton Knife | Crimson Web (Field-Tested)",
         "price": "296,97",
         "float": "0.337741",
         "seed": "819",
@@ -288,7 +288,7 @@
         "lockedUntil": null
       },
       {
-        "name": "? Sport Gloves | Amphibious (Field-Tested)",
+        "name": "Sport Gloves | Amphibious (Field-Tested)",
         "price": "343,59",
         "float": "0.219836",
         "seed": "832",
