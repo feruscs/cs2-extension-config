@@ -2,10 +2,12 @@
   "notifications": [
     {
       "id": 1,
-      "steamId": "",
-      "name": "МЯЧ",
-      "avatar": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/35/35a2b56e6785a9d9c714fac899a5ac0f94c5d091_medium.jpg",
-      "message": "Кучер чооорт"
+      "steamId": "76561198158752336",
+      "name": "CSFlips",
+      "avatar": "https://csflips.com/assets/csflips-logo-transparent-CXHbBkT9.png",
+      "message": "Your deposit has been rejected because the total value is below the current minimum deposit amount of $100 USD.
+This temporary limit has been implemented to prevent bot spam.
+Please try again with a deposit worth $100 or more."
     }
   ]
 }
