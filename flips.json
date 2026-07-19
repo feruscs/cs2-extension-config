@@ -323,6 +323,26 @@
         "stickers": [],
         "lockedUntil": "2026-07-26T08:46:35.482Z"
       }
+    ],
+    "76561198968591994": [
+      {
+        "name": "Gut Knife | Black Laminate (Field-Tested)",
+        "price": "58.58",
+        "float": "0.1539",
+        "seed": "086",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1c-uaRa7FSJ-WHMXSEzuBzp-B6Rxa-kBkupjDLy937d3qQOgEhDZt4RLUNs0TukILnPu_jtFGPjN4Rzyj92nhM7ntq6_FCD_S6xe86nQ",
+        "stickers": [],
+        "lockedUntil": null
+      },
+      {
+        "name": "StatTrak? AWP | Neo-Noir (Factory New)",
+        "price": "94.36",
+        "float": "0.2905",
+        "seed": "451",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6poL_6cB3WvzedxuPUnHirrxR4l423SyI39I3KXPwdxWZclQeNZ5EXskYfnNeyw71OMi9lNzDK-0H3r66pOTw",
+        "stickers": [],
+        "lockedUntil": null
+      }
     ]
   }
 }
