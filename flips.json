@@ -337,11 +337,29 @@
       {
         "name": "StatTrak? AWP | Neo-Noir (Factory New)",
         "price": "94.36",
-        "float": "0.2905",
+        "float": "0.0327",
         "seed": "451",
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6poL_6cB3WvzedxuPUnHirrxR4l423SyI39I3KXPwdxWZclQeNZ5EXskYfnNeyw71OMi9lNzDK-0H3r66pOTw",
         "stickers": [],
         "lockedUntil": null
+      },
+      {
+        "name": "Nomad Knife | Ultraviolet (Field-Tested)",
+        "price": "117.47",
+        "float": "0.1748",
+        "seed": "138",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1U-uaqZ6t_H-OcMXeF0_56td5kSi26gBBp4m7Wydusc3vGPAV0XMR2R7YO4UbsloXvNb7ktg2K39pBxCT8jSJK7DErvbhdqUhqfw",
+        "stickers": [],
+        "lockedUntil": null
+      },
+      {
+        "name": "Sir Bloody Loudmouth Darryl | The Professionals",
+        "price": "59.56",
+        "float": "0",
+        "seed": "0",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIa-2lmxU-LR0dnuNm6E8Vl45Iv181z1fgn8oYby8iRe_OGnZ6psLM-FD3WWlaAlsrk9G3C1xkl-5T_Vyo6odSmWPFRzC5FyEONfuhK9lYG2Nem04gPclcsbmsgBcrK7",
+        "stickers": [],
+        "lockedUntil": "2026-07-26T19:09:18.826Z"
       }
     ]
   }
