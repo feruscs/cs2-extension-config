@@ -370,7 +370,7 @@
     ],
     "76561198099199907": [
       {
-        "name": "StatTrak? Butterfly Knife | Bright Water (Minimal Wear)",
+        "name": "StatTrak Butterfly Knife | Bright Water (Minimal Wear)",
         "price": "605.91",
         "float": "0.1119",
         "seed": "10",
@@ -390,7 +390,7 @@
         "lockedUntil": "2026-07-28T16:55:02.297Z"
       },
       {
-        "name": "StatTrak? Falchion Knife | Black Laminate (Well-Worn)",
+        "name": "StatTrak Falchion Knife | Black Laminate (Well-Worn)",
         "price": "81.28",
         "float": "0.4228",
         "seed": "483",
@@ -401,15 +401,15 @@
     ],
     "76561198989163224": [
       {
-        "name": "StatTrak? AWP | Neo-Noir (Minimal Wear)",
+        "name": "StatTrak AWP | Neo-Noir (Minimal Wear)",
         "price": "72.41",
         "float": "0.1358",
         "seed": "563",
         "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyLwiYbf_jdk7uW-V6poL_6cB3WvzedxuPUnHirrxR4l423SyI39I3KXPwdxWZclQeNZ5EXskYfnNeyw71OMi9lNzDK-0H3r66pOTw",
         "stickers": [
           {
-            "name": "Sticker | EZ",
-            "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai0ki7VeTHjMmuOHaC619h7dWkuAioRAfOmZrv7jFCoar2PPJuIaDAXzfHxe914LQ6G3nhwRwh5mrXy439cCmfbw8nCpNyQuIU8k7vIONANXE"
+            "name": "Charm | Pinch O' Salt",
+            "image": "https://community.fastly.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGI6zwki4Uf_a0IWsPGiE7Fhy-I764RbsQiL8l4Xz9Cxc4_ugY5t-If2sHWac1fc44LRqTnywxR4k5mTVzYn6cy7GOlAlA8NzRLILskW9wIbuP7ni5Qze2ZUFk3v2JiibwQ"
           }
         ],
         "lockedUntil": "2026-07-28T17:18:43.207Z"
