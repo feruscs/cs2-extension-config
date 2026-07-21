@@ -443,6 +443,17 @@
         "stickers": [],
         "lockedUntil": "2026-07-28T13:06:37.289Z"
       }
+    ],
+    "76561198800866326": [
+      {
+        "name": "M4A4 | Full Throttle (Field-Tested)",
+        "price": "46.55",
+        "float": "0.3145",
+        "seed": "924",
+        "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL8ypexwi8P7qaRe69_MuKHMWCCxOt4j-xsSyCmmFMl4WvSzY74d3_COAB2A5pyQOAOtxW_kYexY-O35QzWiYhNyH_93y5P8G81tNq8CZTf",
+        "stickers": [],
+        "lockedUntil": "2026-07-28T16:55:02.297Z"
+      }
     ]
   }
 }
